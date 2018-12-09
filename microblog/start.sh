@@ -1,0 +1,9 @@
+export FLASK_APP=microblog.py
+export FLASK_DEBUG=1
+export MAIL_SERVER=smtp.googlemail.com
+export MAIL_PORT=587
+export MAIL_USE_TLS=1
+export MAIL_USERNAME=hood.adam.kendric@gmail.com
+export MAIL_PASSWORD=
+export MS_TRANSLATOR_KEY=b30082da0128472daf45d0f45839a410
+flask run
